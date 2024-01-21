@@ -2,11 +2,8 @@ function ActorCard(props) {
   const { actor } = props;
 
   const imgStyle = {
-    width: '5rem',
-    
+    width: '5rem',  
   };
-
-
 
   return (
     <tr>
